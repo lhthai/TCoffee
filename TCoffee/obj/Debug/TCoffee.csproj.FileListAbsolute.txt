@@ -1,0 +1,13 @@
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.csprojAssemblyReference.cache
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.Properties.Resources.resources
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.Views.FrmLogin.resources
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.csproj.GenerateResource.cache
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.csproj.CoreCompileInputs.cache
+D:\Code\Winform\TCoffee\TCoffee\bin\Debug\TCoffee.exe.config
+D:\Code\Winform\TCoffee\TCoffee\bin\Debug\TCoffee.exe
+D:\Code\Winform\TCoffee\TCoffee\bin\Debug\TCoffee.pdb
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.exe
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.pdb
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.Views.FrmAdmin.resources
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.Views.FrmProfile.resources
+D:\Code\Winform\TCoffee\TCoffee\obj\Debug\TCoffee.Views.FrmTableManager.resources
